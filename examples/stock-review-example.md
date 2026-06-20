@@ -4,6 +4,13 @@
 
 演示如何用 [美股持仓复盘模板](../prompts/02-us-stock-daily-review.md) 复盘 NVDA、AMD、MU、FTNT、QQQM。以下内容不包含实时行情，不构成买卖建议。
 
+## 调用步骤
+
+1. 打开 [美股持仓复盘模板](../prompts/02-us-stock-daily-review.md)。
+2. 复制「完整提示词」代码块。
+3. 替换持仓或观察名单。
+4. 补充自己的成本、止盈观察位和风险偏好。
+
 ## 可复制示例
 
 ```text
